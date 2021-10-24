@@ -2,9 +2,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shungo0525" />
 </a>
 
+<div>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 <!--
 **shungo0525/shungo0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
