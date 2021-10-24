@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shungo0525" />
 </a>
 
 <!--
